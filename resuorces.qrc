@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/book.png</file>
+        <file>img/bun.jpg</file>
+        <file>img/fault.jpg</file>
+        <file>img/harry.jpg</file>
+        <file>img/math.jpg</file>
+        <file>img/physics.jpeg</file>
+        <file>img/redhood.jpg</file>
+        <file>img/sherlock.jpg</file>
+        <file>img/snowwhite.jpg</file>
+        <file>img/time.jpg</file>
+    </qresource>
+</RCC>
